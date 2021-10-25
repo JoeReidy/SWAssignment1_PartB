@@ -16,5 +16,5 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     implementation group: 'joda-time', name: 'joda-time', version: '2.10.10'
     //add github
-    implementation 'com.github.JoeReidy:SWAssignment1_PartA:partA0'
+    implementation 'com.github.JoeReidy:SWAssignment1_PartA:partAfinished'
 }
